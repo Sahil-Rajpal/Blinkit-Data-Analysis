@@ -6,6 +6,8 @@ This project analyzes Blinkit's grocery sales data to uncover key insights, incl
 ## Dashboard Preview
 ![Dashboard](https://github.com/Sahil-Rajpal/Blinkit-Data-Analysis/blob/main/DashBoard.png)
 
+[View Full Dashboard](https://github.com/Sahil-Rajpal/Blinkit-Data-Analysis/blob/main/DashBoard.png)
+
 ## Dataset
 The dataset used for this analysis can be accessed [here](https://github.com/Sahil-Rajpal/Blinkit-Data-Analysis/blob/main/BlinkIT%20Grocery%20Data%20Excel.xlsx).
 
